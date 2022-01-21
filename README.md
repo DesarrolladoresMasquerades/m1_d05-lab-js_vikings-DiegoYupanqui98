@@ -16,7 +16,6 @@ We have learned Object-oriented programming and how `class` and inheritance work
 - Visit the "Actions" tab in your fork, and enable workflows.
 
 <br>
-
 ## Submission
 
 Upon completion, run the following commands:
